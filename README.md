@@ -25,4 +25,4 @@ If you want to generate the wordcloud of QQ chat record, first preprocess the te
 Then run the main code:
 `python3  create_word_cloud.py __filename.txt`
 
-For more details, read my blog post: [wordcloud](https://godweiyang.com/2019/07/27/wordcloud/)
+For more details, read my blog post: [wordcloud](https://binyang.best/)
